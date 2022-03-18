@@ -33,9 +33,13 @@ export default function Footer() {
             <ul>
                 <h2 className="footer-links-heading">Follow Us</h2>
                 <div className="social-media-links">
-                    <li><a href={'https://www.facebook.com/omkar.patke.1/'} className="facebook-link"><i className="lni lni-facebook-original"></i></a></li>
+                    {/* <li><a href={'https://www.facebook.com/omkar.patke.1/'} className="facebook-link"><i className="lni lni-facebook-original"></i></a></li>
                     <li><a href={"https://twitter.com/omkar_patke"} className="twitter-link"><i className="lni lni-twitter-original"></i></a></li>
-                    <li><a href={"https://www.linkedin.com/in/omkar-patke-a61b221ab/"} className="linkedIn-link"><i className="lni lni-linkedin-original"></i></a></li>
+                    <li><a href={"https://www.linkedin.com/in/omkar-patke-a61b221ab/"} className="linkedIn-link"><i className="lni lni-linkedin-original"></i></a></li> */}
+
+<li><a href={url} className="facebook-link"><i className="lni lni-facebook-original"></i></a></li>
+                    <li><a href={url} className="twitter-link"><i className="lni lni-twitter-original"></i></a></li>
+                    <li><a href={url} className="linkedIn-link"><i className="lni lni-linkedin-original"></i></a></li>
                 </div>
             </ul>
         </div>
