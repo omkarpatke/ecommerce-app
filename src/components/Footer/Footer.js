@@ -8,25 +8,25 @@ export default function Footer() {
         <div className="footer-links-container">
             <ul>
                 <h2 className="footer-links-heading">SUPPORT</h2>
-                <li><a href="www.google.com">Warranty</a></li>
-                <li><a href="www.google.com">Contact Us</a></li>
-                <li><a href="www.google.com">FAQs</a></li>
-                <li><a href="www.google.com">Shipping Policy</a></li>
-                <li><a href="www.google.com">Payments</a></li>
-                <li><a href="www.google.com">Cancellations & Returns</a></li>
+                <li><a>Warranty</a></li>
+                <li><a>Contact Us</a></li>
+                <li><a>FAQs</a></li>
+                <li><a>Shipping Policy</a></li>
+                <li><a>Payments</a></li>
+                <li><a>Cancellations & Returns</a></li>
             </ul>
 
             <ul>
                 <h2 className="footer-links-heading">About Us</h2>
-                <li><a href="www.google.com">Corporate Profile</a></li>
-                <li><a href="www.google.com">Videos</a></li>
-                <li><a href="www.google.com">Stores</a></li>
+                <li><a >Corporate Profile</a></li>
+                <li><a >Videos</a></li>
+                <li><a >Stores</a></li>
             </ul>
 
             <ul>
                 <h2 className="footer-links-heading">Policy</h2>
-                <li><a href="www.google.com">Privacy Policy</a></li>
-                <li><a href="www.google.com">Terms & Conditions</a></li>
+                <li><a>Privacy Policy</a></li>
+                <li><a>Terms & Conditions</a></li>
             </ul>
 
             <ul>
