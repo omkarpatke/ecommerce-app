@@ -7,6 +7,7 @@ import Wishlist from './components/Pages/Wishlist/Wishlist';
 import SignIn from './components/Pages/SignIn/SignIn';
 import SignUp from './components/Pages/SignUp/SignUp';
 import Profile from './components/Pages/Profile/Profile';
+import Cart from './components/Pages/Cart/Cart';
 import { Routes, Route } from "react-router-dom";
 
 
@@ -24,6 +25,7 @@ function App() {
         <Route path='/signUp' exact element={<SignUp />} />
         <Route path='/signUp' exact element={<SignUp />} />
         <Route path='/profile' exact element={<Profile />} />
+        <Route path='/cart' exact element={<Cart />} />
       </Routes>
 
       <Footer />
