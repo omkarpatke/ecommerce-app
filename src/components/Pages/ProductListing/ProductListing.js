@@ -252,8 +252,8 @@ const products = [
                 <div className="product-desc">{product.desc}</div>
                 <div className="product-price">{product.price}</div>
                 <div className="product-links">
-                    <a href="#" className="product-btn">KNOW MORE</a>
-                    <a href="#" className="product-btn">Add To Cart</a>
+                    <button className="product-btn">KNOW MORE</button>
+                    <button className="product-btn">Add To Cart</button>
                 </div>
               </div>
             ))}

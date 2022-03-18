@@ -177,10 +177,11 @@ input[type='range']::-moz-range-thumb{
 }
 
 .product-btn{
-    padding: .3rem .5rem;
+    padding: .5rem .7rem;
     text-decoration: none;
     background: var(--primary-color);
     color: var(--white-color);
+    border: none;
     border-radius: 10px;
     transition: .3s all ease-in-out;
 }
