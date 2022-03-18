@@ -19,7 +19,7 @@ export default function Navbar() {
     <nav className="navbar">
         <div className="nav-brand">
         <Link to='/products' className='nav-brand-name'> Faster Cycle Store </Link> 
-        <Link to='/home'><img src={NavLogo} alt="brand-img" className="nav-brand-img" /></Link> 
+        <Link to=''><img src={NavLogo} alt="brand-img" className="nav-brand-img" /></Link> 
         </div>
        <div className="nav-contents">
         <div className="search-bar">

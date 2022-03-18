@@ -17,7 +17,7 @@ function App() {
       <Navbar />
 
       <Routes>
-        <Route path='/home' exact element={<Home />} />
+        <Route path='' element={<Home />} />
         <Route path='/products' exact element={<ProductListing />} />
         <Route path='/wishlist' exact element={<Wishlist />} />
         <Route path='/signIn' exact element={<SignIn />} />
@@ -25,7 +25,7 @@ function App() {
         <Route path='/signUp' exact element={<SignUp />} />
         <Route path='/profile' exact element={<Profile />} />
       </Routes>
-      
+
       <Footer />
     </div>
   );
