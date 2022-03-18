@@ -8,25 +8,25 @@ export default function Footer() {
         <div className="footer-links-container">
             <ul>
                 <h2 className="footer-links-heading">SUPPORT</h2>
-                <li><a href="www.#.com">Warranty</a></li>
-                <li><a href="www.#.com">Contact Us</a></li>
-                <li><a href="www.#.com">FAQs</a></li>
-                <li><a href="www.#.com">Shipping Policy</a></li>
-                <li><a href="www.#.com">Payments</a></li>
-                <li><a href="www.#.com">Cancellations & Returns</a></li>
+                <li><a href="www.google.com">Warranty</a></li>
+                <li><a href="www.google.com">Contact Us</a></li>
+                <li><a href="www.google.com">FAQs</a></li>
+                <li><a href="www.google.com">Shipping Policy</a></li>
+                <li><a href="www.google.com">Payments</a></li>
+                <li><a href="www.google.com">Cancellations & Returns</a></li>
             </ul>
 
             <ul>
                 <h2 className="footer-links-heading">About Us</h2>
-                <li><a href="www.#.com">Corporate Profile</a></li>
-                <li><a href="www.#.com">Videos</a></li>
-                <li><a href="www.#.com">Stores</a></li>
+                <li><a href="www.google.com">Corporate Profile</a></li>
+                <li><a href="www.google.com">Videos</a></li>
+                <li><a href="www.google.com">Stores</a></li>
             </ul>
 
             <ul>
                 <h2 className="footer-links-heading">Policy</h2>
-                <li><a href="www.#.com">Privacy Policy</a></li>
-                <li><a href="www.#.com">Terms & Conditions</a></li>
+                <li><a href="www.google.com">Privacy Policy</a></li>
+                <li><a href="www.google.com">Terms & Conditions</a></li>
             </ul>
 
             <ul>
