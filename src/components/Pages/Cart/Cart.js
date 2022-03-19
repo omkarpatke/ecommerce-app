@@ -92,7 +92,7 @@ export default function Cart() {
                         <p>Total Amount</p>
                         <div>₹ 12147</div>
                     </div>
-                    <button href="#" className="proceed-to-checkout-btn">Proceed To Checkout</button>
+                    <button className="proceed-to-checkout-btn">Proceed To Checkout</button>
                 </div>
             </div>
         </div>
