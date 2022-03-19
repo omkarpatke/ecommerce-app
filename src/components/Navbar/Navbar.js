@@ -37,7 +37,7 @@ export default function Navbar() {
         </div>
 
         <div className="user-profile">
-            <Link to='user-profile' title="User-Profile"><img className="user-profile-icon" src={ProfileImg} alt="user-profile"/></Link>
+            <Link to='/profile' title="User-Profile"><img className="user-profile-icon" src={ProfileImg} alt="user-profile"/></Link>
         </div>
        </div>
     </nav>
