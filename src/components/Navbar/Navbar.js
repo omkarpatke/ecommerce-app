@@ -12,8 +12,8 @@ export default function Navbar() {
     <>
     <div className="sub-header">
         <div className="login-links">
-            <Link to='/sign-in'> SignIn </Link> |
-            <Link to='/sign-up'> SignUp </Link> 
+            <Link to='/signIn'> SignIn </Link> |
+            <Link to='/signUp'> SignUp </Link> 
         </div>
     </div>
     <nav className="navbar">

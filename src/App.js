@@ -23,7 +23,6 @@ function App() {
         <Route path='/wishlist' exact element={<Wishlist />} />
         <Route path='/signIn' exact element={<SignIn />} />
         <Route path='/signUp' exact element={<SignUp />} />
-        <Route path='/signUp' exact element={<SignUp />} />
         <Route path='/profile' exact element={<Profile />} />
         <Route path='/cart' exact element={<Cart />} />
       </Routes>
